@@ -54,10 +54,8 @@ flowchart TD
   B4 --> D1
   D1 --> D2
   C3 --> D3
-```
 
-
-## 🌐 Live Demo
+  ## 🌐 Live Demo
 
 [https://github.com/Tanmayasahoo3536/devops-project](https://github.com/Tanmayasahoo3536/devops-project)
 
@@ -477,4 +475,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Author Name:- Tanmaya Sahoo
 
 Email:- Tanmayasahoo@gmail.com
+```
+
 
