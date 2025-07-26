@@ -218,12 +218,6 @@ To validate the Terraform modules using Terratest:
     This will initialize and apply your Terraform, capture and assert outputs, and automatically destroy resources.
     
 ## 📸 Screenshots
-<img width="1445" height="668" alt="image" src="https://github.com/user-attachments/assets/b856832b-07f9-49de-94bd-732a15aeb94f" />
-<img width="1826" height="254" alt="image" src="https://github.com/user-attachments/assets/81fe1e99-62b0-4da1-89c2-14ab7733882e" />
-<img width="1450" height="612" alt="image" src="https://github.com/user-attachments/assets/55e426f4-3793-42a5-be7e-f2e6d7d56693" />
-<img width="1455" height="540" alt="image" src="https://github.com/user-attachments/assets/47ee740f-fe8b-44f6-af5f-880f0e031717" />
-<img width="1490" height="720" alt="image" src="https://github.com/user-attachments/assets/6eb0f673-2287-4fac-84a6-faa22197418f" />
-<img width="1719" height="656" alt="Screenshot 2025-07-17 014517" src="https://github.com/user-attachments/assets/3ce666c6-7ff6-4fc4-8dbc-79f3ae70c13c" />
 
 ## 🧠 Common Problems & Fixes
 
