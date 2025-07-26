@@ -3,6 +3,7 @@
 This project establishes a robust CI/CD pipeline on AWS using Terraform, enhanced with cutting-edge DevSecOps practices via GitHub Actions. It provisions an end-to-end AWS CodePipeline (Source, Build, Deploy to EC2) and validates infrastructure with Terratest. Further, it integrates GitHub Actions for automated DevSecOps, incorporating security scanning (tfsec for Terraform, Trivy for Docker images) and secure secret management with Kubernetes Sealed Secrets. This ensures a secure, automated, and efficient application delivery workflow, triggered on every code push.
 
 # 🏛️ Project Architecture
+<img width="1381" height="872" alt="Screenshot 2025-07-26 185106" src="https://github.com/user-attachments/assets/1c91cae1-193a-4d37-87a6-9da3d1f6f1a5" />
 
 plant uml
 flowchart TD
@@ -218,6 +219,13 @@ To validate the Terraform modules using Terratest:
     This will initialize and apply your Terraform, capture and assert outputs, and automatically destroy resources.
     
 ## 📸 Screenshots
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233940" src="https://github.com/user-attachments/assets/ca462626-e99b-43d3-baca-f8d8dad41a87" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233826" src="https://github.com/user-attachments/assets/0fe51af9-9c86-4cd9-9e1a-ab53223cccea" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233803" src="https://github.com/user-attachments/assets/214b4dd2-fd51-4ea8-98ac-90d60998dafa" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233208" src="https://github.com/user-attachments/assets/2554b918-eeda-4267-b2fe-cc87205d5204" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233129" src="https://github.com/user-attachments/assets/dd472ba8-9e6b-433e-a20e-ec9f564587ef" />
+<img width="1919" height="1079" alt="Screenshot 2025-07-25 233110" src="https://github.com/user-attachments/assets/225a1538-435d-4733-8c12-6d97ce692661" />
+
 
 ## 🧠 Common Problems & Fixes
 
